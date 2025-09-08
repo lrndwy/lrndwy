@@ -100,7 +100,7 @@ competitions:
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizagha&theme=tokyonight" alt="hafizagha" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lrndwy&theme=tokyonight" alt="lrndwy" />
 </div>
 
 ---
