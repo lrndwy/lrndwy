@@ -1,13 +1,3 @@
-# 🛡️ Hafiz Agha Al-Baith
-
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║  🚀 Cybersecurity Engineer & Full-Stack Developer         ║
-║  🏢 Founder & CEO of HEXANEST.ID                         ║
-║  🎯 Turning Code into Digital Fortresses                  ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00F7FF&background=0D1117&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineering+Student;Full-Stack+Web+Developer;Founder+%26+CEO+HEXANEST.ID;Bot+Automation+Enthusiast;API+Traffic+Analyzer)
@@ -163,8 +153,8 @@ competitions:
 ## 📈 GitHub Analytics
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizagha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizagha&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrndwy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrndwy&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
